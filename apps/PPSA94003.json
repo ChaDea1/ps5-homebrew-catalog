@@ -3,12 +3,12 @@
   "name": "Bedlam 2: Absolute Bedlam (PS5)",
   "kind": "game",
   "category": "pc-ports",
-  "description": "Native PS5 port of Bedlam 2: Absolute Bedlam; requires original game data supplied by the user.",
-  "license": null,
+  "description": "Native PS5 port; user supplies game files in /data/Bedlam2PS5/content; saves and generated files persist in /data/Bedlam2PS5/saves.",
+  "license": "Unlicensed",
   "author": "GOREslinger",
-  "version": null,
-  "source_repo": null,
-  "artifact_url": null,
-  "sha256": null,
-  "icon_url": null
+  "version": "01.000.000-rc.3",
+  "source_repo": "https://github.com/ChaDea1/Bedlam2-PS5",
+  "artifact_url": "https://github.com/ChaDea1/Bedlam2-PS5/releases/download/01.000.000-rc.3/PPSA94003.zip",
+  "sha256": "160fa3a6cb12a5ffa6ef78f9cc69709263549b56f2ee94805a90c9fb5342727d",
+  "icon_url": "https://raw.githubusercontent.com/ChaDea1/Bedlam2-PS5/01.000.000-rc.3/PPSA94003/sce_sys/icon0.png"
 }
